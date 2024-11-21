@@ -1,1 +1,12 @@
+Ezequiel Nandin
+Marcos Martin
 
+A- ¿Qué color de fondo tiene su página en el TESTING ? 
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ? 
+C- ¿Qué color de fondo tiene su página en el MASTER? 
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+A- El fondo de la rama TESTING quedo de color Blue
+B- El fondo de la rama DESARROLLO quedo de color Yellow
+C- El fondo del master quedo igual al de la rama TESTING
+D- Quedo el favicon de Alfa
