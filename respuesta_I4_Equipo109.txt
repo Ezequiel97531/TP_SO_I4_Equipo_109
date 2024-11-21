@@ -5,8 +5,20 @@ A- ¿Qué color de fondo tiene su página en el TESTING ?
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ? 
 C- ¿Qué color de fondo tiene su página en el MASTER? 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
 
 A- El fondo de la rama TESTING quedo de color Blue
 B- El fondo de la rama DESARROLLO quedo de color Yellow
 C- El fondo del master quedo igual al de la rama TESTING
 D- Quedo el favicon de Alfa
+E- Si,Beta tuvo problemas al hacer el push
+F- El problema ocurrio porque al hacer push a la vez beta quedo con una version desactualizada del repositorio
+G- Podemos utilizar el comando push -f pero podes generar conflictos 
+H- El ultimo en usarlo va quedarse con la version actualizada del repositorio
+I- Lo que hay que hacer es eliminar los simbolos de conflicto,luego actualizamos mediante un git add (nombre del archivo)
